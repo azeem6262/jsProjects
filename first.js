@@ -1,4 +1,4 @@
-const body = document.querySelector('body');
+/*const body = document.querySelector('body');
 const mainPage = document.querySelector('.mainPage');
 mainPage.style.display = 'flex';
 mainPage.style.flexDirection = 'column'
@@ -47,4 +47,4 @@ const temp = document.querySelector(selector);
 setColor('#grey', 'grey');
 setColor('#white', 'white');
 setColor('#blue', 'blue');
-setColor('#yellow', 'yellow');
+setColor('#yellow', 'yellow');*/
